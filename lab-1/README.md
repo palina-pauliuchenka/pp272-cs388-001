@@ -37,7 +37,7 @@ The following **stretch** functionality is implemented:
 
 [//]: # (![Image/GIF showing goals and progress]&#40;lab-1.gif&#41;)
 
-<img src="lab-1.gif" alt="Goals and Progress" height="500"/>
+<img src="lab-1.gif" alt="Goals and Progress" width="230"/>
 
 
 ## Notes
