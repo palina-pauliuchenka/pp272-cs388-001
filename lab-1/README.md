@@ -36,9 +36,7 @@ The following **stretch** functionality is implemented:
     - Use a Toast to notify of a reached goal.
 
 [//]: # (![Image/GIF showing goals and progress]&#40;lab-1.gif&#41;)
-<div style="text-align: center;">
-    <img src="lab-1.gif" alt="Goals and Progress" width="230"/>
-</div>
+<img src="lab-1.gif" alt="Goals and Progress" width="230"/>
 
 ## Notes
 
